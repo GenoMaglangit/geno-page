@@ -1,1 +1,1 @@
-# geno-page
+https://genomaglangit.github.io/geno-page/
